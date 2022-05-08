@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+    font-size: 40px;
+}
+p{
+    color: black;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 0.5;
+    margin-left: 36px;
+}
+.through{
+    text-decoration: line-through;
+}
+a{
+    color: red;
+}
+a:hover{
+    color: blueviolet;
+}
+a:active{
+    color: blue;
+}
+h2{
+    color: black;
+    font-size: 40px;
+}
+h2{
+    border-left: 5px solid rgb(229, 92, 229);
+    border-bottom: 5px solid rgb(229, 92, 229);
+}
+img {
+    border: 5px solid gray;
+  }
+  img:hover {
+    border: 5px solid blue;
+  }
